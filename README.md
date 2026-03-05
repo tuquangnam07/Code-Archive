@@ -5,7 +5,7 @@
   ### *Thư viện lịch sử code cá nhân*
   ### *"Mỗi dòng code là một ký ức"*
   
-  [![Live Demo](https://img.shields.io/badge/demo-code--archive.pages.dev-38bdf8?style=flat-square)](https://code-archive.pages.dev)
+  [![Live Demo](https://img.shields.io/badge/demo-code--archive.pages.dev-38bdf8?style=flat-square)](https://my-code-archive.pages.dev)
   [![License](https://img.shields.io/badge/license-MIT-38bdf8?style=flat-square)](LICENSE)
   
 </div>
