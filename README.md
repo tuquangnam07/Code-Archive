@@ -39,7 +39,7 @@
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/code-archive.git
+git clone https://github.com/tuquangnam07/code-archive.git
 
 # 2. Mở index.html (hoặc chạy local server)
 cd code-archive
